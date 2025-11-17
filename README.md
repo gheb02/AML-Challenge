@@ -6,6 +6,8 @@ This repository contains the code and final submission notebooks for the DATABRO
 - **Emanuele Gallo 2197051**
 - **Giorgio Taramanni 1961217**
 
+## Final Model Architectures
+
 ## Repository Structure
 
 The repository contains:
