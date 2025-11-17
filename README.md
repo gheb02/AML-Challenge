@@ -1,7 +1,5 @@
 # AML-Challenge
 
-## Submission
-
 This repository contains the code and final submission notebooks for the DATABROS participation in the Advanced Machine Learning and Compuer Vision challenge.
 
 - **Gabriele Cabibbo 2196717**
