@@ -1,7 +1,6 @@
 # AML-Challenge
 
 ## Submission
---------------------------
 
 This repository contains the code and final submission notebooks for the DATABROS participation in the Advanced Machine Learning and Compuer Vision challenge.
 
@@ -10,9 +9,6 @@ This repository contains the code and final submission notebooks for the DATABRO
 - **Giorgio Taramanni 1961217**
 
 ## Repository Structure
--------------------------
-
-Repository Structure
 
 The repository contains:
 
